@@ -5,7 +5,7 @@ para isto foi desenvolvido uma ferramenta que mostra as formas de ondas dos sist
 esta ferramenta foi desenvolvida na linguagem Python por ser uma linguagem de alto nível e interpretada.
 
 
-*Funcionamento*
+*Funcionamento:*
 A ferramenta de geração de gráficos é dada de forma separada ao LogiSim®, 
 para o mesmo ser utilizado, deve-se primeiro construir um circuito na área principal do LogiSim®, com no mínimo uma entrada e uma saída. 
 O usuário deve inserir um estado possível nas entradas do circuito, e o mesmo se encarrega em calcular os valores das saídas do circuito 
